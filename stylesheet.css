@@ -1,0 +1,14 @@
+body {
+    background-color: #000a1f;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin: 200px 200px 200px 460px;
+    padding: 30px;
+    border: 2px solid white;
+    height: 200px;
+    width: 30%;
+    box-shadow: 0px 0px 20px 20px white;
+}
